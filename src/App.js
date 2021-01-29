@@ -122,6 +122,7 @@ function App() {
           onSelectionChange={(selection) => setSelection(selection)}
         />
       )}
+      <h3>by u/ejdoh1</h3>
     </div>
   );
 }
