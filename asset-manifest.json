@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wallstreetbets/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/wallstreetbets/static/js/main.331bc8a3.chunk.js",
-    "main.js.map": "/wallstreetbets/static/js/main.331bc8a3.chunk.js.map",
+    "main.js": "/wallstreetbets/static/js/main.82cb228b.chunk.js",
+    "main.js.map": "/wallstreetbets/static/js/main.82cb228b.chunk.js.map",
     "runtime-main.js": "/wallstreetbets/static/js/runtime-main.12220117.js",
     "runtime-main.js.map": "/wallstreetbets/static/js/runtime-main.12220117.js.map",
     "static/js/2.108ae992.chunk.js": "/wallstreetbets/static/js/2.108ae992.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.12220117.js",
     "static/js/2.108ae992.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.331bc8a3.chunk.js"
+    "static/js/main.82cb228b.chunk.js"
   ]
 }
